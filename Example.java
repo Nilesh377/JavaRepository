@@ -29,4 +29,9 @@ public class Example
         System.out.println("quot : "+quot);
         System.out.println("rem : "+rem);
     }
+
+    public String displayResults()
+	{
+		return " Results are displayed";
+	}
 }
