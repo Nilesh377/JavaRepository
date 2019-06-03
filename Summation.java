@@ -17,3 +17,9 @@ public class Summation {
         System.out.printf("The sum is %d\n", sum);
         
     }
+	
+	public int displaySum()
+	{
+		return  sum ;
+	}
+}
