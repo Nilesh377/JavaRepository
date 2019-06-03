@@ -21,4 +21,10 @@ class UnaryOperator {
     	System.out.println("!flag = " + !flag);
     	// flag is still false.
     }
+	
+	public int displayResultNumber()
+	{
+		return resultNumber;
+		System.out.println("Result number is -----> "+resultNumber);
+	}
 }
